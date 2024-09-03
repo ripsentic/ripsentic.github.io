@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ripsentic.github.io/sitemap.html.gz
+Sitemap: https://ripsentic.github.io/app/sitemap.html.gz
+Sitemap: https://ripsentic.github.io/assets/sitemap.html.gz
+Sitemap: https://ripsentic.github.io/css/sitemap.html.gz
+Sitemap: https://ripsentic.github.io/includes/sitemap.html.gz
+Sitemap: https://ripsentic.github.io/item/sitemap.html.gz
+Sitemap: https://ripsentic.github.io/src/sitemap.html.gz
